@@ -1,0 +1,2 @@
+INSERT INTO PERSON (NAME, PHONE, EMAIL_ADDRESS) VALUES ('John Smith', '02 1234 4321', 'john@example.com');
+INSERT INTO PERSON (NAME, PHONE, EMAIL_ADDRESS) VALUES ('Jane Smith', '0412 567 890', 'john@example.com');
